@@ -5,6 +5,8 @@
   "author": "lazygyu <lazygyu@gmail.com>",
   "license": "MIT",
   "type": "module",
+  "homepage": "https://github.com/lazygyu/mdns",
+  "repository": "lazygyu/mdns",
   "engines": {
     "node": ">= 14"
   },
