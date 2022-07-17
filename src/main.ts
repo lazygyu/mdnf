@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+
+
 import {loadSearchData} from './modules/loadSearchData';
 import {openBrowser, parseArguments, selectResult} from './modules/cli';
 import {search} from './modules/search';
