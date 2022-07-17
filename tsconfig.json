@@ -5,7 +5,12 @@
     "module": "esnext",
     "moduleResolution": "Node",
     "noEmit": true,
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "noUncheckedIndexedAccess": true,
+    "skipLibCheck": true,
+    "strict": true
   },
   "include": ["src/"]
 }
