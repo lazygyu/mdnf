@@ -1,6 +1,6 @@
 {
   "name": "mdnf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mdn finder",
   "author": "lazygyu <lazygyu@gmail.com>",
   "license": "MIT",
@@ -11,7 +11,7 @@
     "node": ">= 14"
   },
   "bin": {
-    "mdns": "./build/main.js"
+    "mdnf": "./build/main.js"
   },
   "files": [
     "build/"
